@@ -1,4 +1,4 @@
-# Hi, I’m Shanteria 👋
+# Welcome 👋
 
 I’m an Information Technology student specializing in Data Science & Analytics
 
