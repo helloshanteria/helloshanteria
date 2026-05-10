@@ -1,30 +1,34 @@
 # Welcome 👋
 
-I’m an Information Technology student specializing in Data Science & Analytics
+I’m an Information Technology student specializing in Data Science & Analytics with an interest in business, technology, and data-driven problem solving.
 
 ## Approach
-I focus on going beyond basic analysis by identifying patterns in data and translating them into clear, actionable insights
 
+I enjoy using data to explore real-world problems, identify trends, and turn information into meaningful insights.
 
 ## What I Work On
-- Data analysis using Python and R
-- Structuring and processing datasets
-- Identifying patterns, trends, and insights
-- Visualizing data to support decision-making
+
+* Data analysis using Python and R
+* Data visualization and statistical analysis
+* Organizing and analyzing datasets
+* Exploring business and consumer trends
 
 ## Tools & Technologies
-- Python (Pandas, Jupyter Notebook)
-- SQL
-- R Programming
-- Java
-- Excel
-- Data Visualization (Matplotlib, Seaborn)
+
+* Python (Pandas, Jupyter Notebook)
+* SQL
+* R Programming
+* Java
+* Excel
+* Data Visualization
 
 ## Projects
-- **Statistical Analysis of Consumer Spending on Beauty Products**
-- **Sales Analysis with Python**
-- **Real Estate Market Study**
-- More projects currently being refined and added
+
+* Statistical Analysis of Consumer Spending on Beauty Products
+* Sales Analysis with Python
+* Real Estate Market Analysis Using R
+* Additional analytics projects currently in development
 
 ## Focus
-Currently building a strong foundation in data analytics while working toward data engineering roles
+
+Currently building technical, analytical, and problem-solving skills through hands-on data projects and real-world analysis.
