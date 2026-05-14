@@ -32,13 +32,13 @@ My work focuses on analyzing real-world datasets, identifying trends, and buildi
 # Featured Projects
 
 ## Statistical Analysis of Consumer Spending on Beauty Products
-Independently analyzed beauty product consumer spending data using R to identify purchasing trends, customer behavior patterns, and product interest within the beauty industry through statistical analysis and data visualization.
+Independently analyzed beauty product consumer spending data using R to identify purchasing trends, customer behavior patterns, and product interest within the beauty industry through statistical analysis and data visualization techniques.
 
 ## Real Estate Market Analysis
-Conducted statistical analysis on Gwinnett County housing data using R to evaluate pricing trends, calculate confidence intervals, and estimate market value ranges across selected properties.
+Analyzed Gwinnett County housing data using R to evaluate residential pricing trends, estimate market value ranges, and support data-driven real estate insights through statistical analysis and confidence interval calculations.
 
 ## Consumer Sales Trend Analysis
-Analyzed sales-related datasets using Python and Jupyter Notebook to clean data, identify sales patterns, compare performance trends, and visualize results through exploratory analysis techniques.
+Analyzed sales-related datasets using Python and Jupyter Notebook to identify purchasing patterns, compare sales performance trends, and support business insights through data cleaning, exploratory analysis, and data visualization techniques.
 
 ---
 
